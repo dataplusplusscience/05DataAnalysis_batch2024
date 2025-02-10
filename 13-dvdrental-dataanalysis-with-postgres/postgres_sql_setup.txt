@@ -1,0 +1,6 @@
+1. Download the Installer
+Go to the PostgreSQL download page(https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/?form=MG0AV3) and download the installer for your operating system (Windows, macOS, or Linux).
+
+2. Post installation, create username as "postgres" and password as "Data++science" and port as 5342.
+3. Create database and save it
+4. Then right click on database and restore DB and select folder option and choose the dvd_rental_folder and data should be imported.
